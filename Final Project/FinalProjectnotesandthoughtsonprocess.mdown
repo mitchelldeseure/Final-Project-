@@ -36,4 +36,4 @@ Based on http://bl.ocks.org/mbostock/4063530
 
 Now that I see there is a big difference I'm going to look at the most popular topics from both runs of the topic modeling tool and see what they are and what can we learn from the different charts.
 
-Another thing I think I will try is doing topic models and graphs by decade to see if/how the top topics change when we look exclusively at a certain decade.
+Another thing I think I will try is doing topic models and graphs by decade to see if/how the top topics change when we look exclusively at a certain decade.  So I will re run the topic model for each decade (for as many years as I have availible)
